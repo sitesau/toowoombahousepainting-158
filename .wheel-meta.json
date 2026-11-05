@@ -1,0 +1,22 @@
+{
+  "wheel_id": 746,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-158",
+  "project": "house-painting-toowoomba-seasonal-timing-bd375088c5120a49d6acb8",
+  "parent_t1_ref": "toowoombahousepainting-013",
+  "node_role": "buffer",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painting toowoomba seasonal timing",
+  "intended_url": "http://house-painting-toowoomba-seasonal-timing-bd375088c5120a49d6acb8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "98394012fb3dd70a",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/house-painting-toowoomba-toowoombahousepainting-013/",
+      "anchor": "House Painting Toowoomba: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
